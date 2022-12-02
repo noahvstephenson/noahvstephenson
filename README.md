@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hey! 👋
+I'm Noah, a software engineer and front-end web developer.
 
-<!--
-**noahvstephenson/noahvstephenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education 🎓
+- Full Sail Computer Science B.S. 
 
-Here are some ideas to get you started:
+## Skills ✨
+- JavaScript/TypeScript
+- HTML/CSS
+- Python
+- C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 💻
+- 🃏 [All The Cards](https://noahvstephenson.github.io/allthecards) - Magic: The Gathering deckbuilder and card database web app
+- 🎵 [Translate You](https://noahvstephenson.github.io/translateyou) - Music translation app using [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) and [lyrics.ovh](https://github.com/NTag/lyrics.ovh) APIs
+- 💵 [$pent](https://noahvstephenson.github.io/spent) - Mobile budgeting app built with React Native
+
+## Tools 🛠
+- VSCode on Windows/Mac
+- React.js + Vite
+- React Native
+
+## Contact 📧
+- [LinkedIn](https://www.linkedin.com/in/noahvstephenson/)
+- [Portfolio](https://noahvstephenson.github.io/)
+- [Dev Blog](https://noahvstephenson.wordpress.com/)
