@@ -10,7 +10,7 @@ I'm Noah, a software engineer and front-end web developer.
 - Python
 - C/C++
 
-## Projects 💻
+## [Projects](https://noahvstephenson.github.io/projects) 💻
 - 🃏 [All The Cards](https://noahvstephenson.github.io/projects/allthecards) - Magic: The Gathering deckbuilder and card database web app
 - 🎵 [Translate You](https://noahvstephenson.github.io/projects/translateyou) - Music translation app using [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) and [lyrics.ovh](https://github.com/NTag/lyrics.ovh) APIs
 - 💵 [$pent](https://noahvstephenson.github.io/projects/spent) - Mobile budgeting app built with React Native
