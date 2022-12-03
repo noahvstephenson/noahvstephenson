@@ -20,7 +20,7 @@ I'm [Noah](https://noahvstephenson.github.io/), a software engineer and front-en
 - React.js + Vite
 - React Native
 
-## Contact 📎
+## Contact 📱
 - [LinkedIn](https://www.linkedin.com/in/noahvstephenson/)
 - [Portfolio](https://noahvstephenson.github.io/)
 - [Twitter](https://twitter.com/noahvstephenson)
