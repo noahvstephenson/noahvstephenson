@@ -1,8 +1,8 @@
 ## Hey! 👋
-I'm [Noah](https://noahvstephenson.github.io/), a software engineer and front-end web developer.
+I'm [Noah](https://noahvstephenson.github.io/](https://noahstephenson.vercel.app/), a software engineer and front-end web developer.
 
 ## Education 🎓
-- Full Sail Computer Science B.S. 
+- Computer Science B.S., Valedictorian, Full Sail University
 
 ## Skills ✨
 - JavaScript/TypeScript
@@ -12,9 +12,7 @@ I'm [Noah](https://noahvstephenson.github.io/), a software engineer and front-en
 
 ## Projects 💻
 - 🃏 [All The Cards](https://noahvstephenson.github.io/projects/allthecards) - Magic: The Gathering deckbuilder and card database web app
-- 🎵 [Translate You](https://noahvstephenson.github.io/projects/translateyou) - Music translation app using [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) and [lyrics.ovh](https://github.com/NTag/lyrics.ovh) APIs
-- 💵 [$pent](https://noahvstephenson.github.io/projects/spent) - Mobile budgeting app built with React Native
-
+  
 ## Tools 🛠
 - VSCode on Windows/Mac
 - React.js + Vite
@@ -22,6 +20,6 @@ I'm [Noah](https://noahvstephenson.github.io/), a software engineer and front-en
 
 ## Contact 📱
 - [LinkedIn](https://www.linkedin.com/in/noahvstephenson/)
-- [Portfolio](https://noahvstephenson.github.io/)
-- [Twitter](https://twitter.com/noahvstephenson)
+- [Portfolio](https://noahstephenson.vercel.app/)
+- [Twitter](https://twitter.com/noahvstephenson/)
 - [Dev Blog](https://noahvstephenson.wordpress.com/)
