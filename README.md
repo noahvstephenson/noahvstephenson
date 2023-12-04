@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm [Noah](https://noahvstephenson.github.io/](https://noahstephenson.vercel.app/), a software engineer and front-end web developer.
+I'm [Noah](https://noahstephenson.vercel.app/), a software engineer and front-end web developer.
 
 ## Education 🎓
 - Computer Science B.S., Valedictorian, Full Sail University
