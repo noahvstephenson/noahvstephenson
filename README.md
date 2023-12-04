@@ -7,7 +7,7 @@ I'm [Noah](https://noahstephenson.vercel.app/), a software engineer and front-en
 ## Projects 💻
 - ⛅ [Weathever](http://weathever.vercel.app) - Get the weather, wherever
 - 🃏 [All The Cards](https://noahvstephenson.github.io/projects/allthecards) - Magic: The Gathering deckbuilder and card database web app
-- 
+  
 ## Skills ✨
 - JavaScript/TypeScript
 - HTML/CSS
