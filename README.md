@@ -1,10 +1,12 @@
 ## Hey! 👋
-I'm [Noah](https://noahstephenson.vercel.app/), a software engineer and front-end web developer.
+I'm [Noah](https://noahvstephenson.com/, a software engineer and full-stack web developer.
 
 ## Education 🎓
 - Computer Science B.S., Valedictorian, Full Sail University
 
 ## Projects 💻
+- 🧑 [Portfolio](http://noahvstephenson.com/) - Noah Stephenson
+- 📈 [Stockit](http://stockit-ns.vercel.app) - Stock insights 
 - ⛅ [Weathever](http://weathever.vercel.app) - Get the weather, wherever
 - 🃏 [All The Cards](https://noahvstephenson.github.io/projects/allthecards) - Magic: The Gathering deckbuilder and card database web app
   
