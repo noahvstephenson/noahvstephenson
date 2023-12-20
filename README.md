@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm [Noah](https://noahvstephenson.com/, a software engineer and full-stack web developer.
+I'm [Noah](https://noahvstephenson.com/), a software engineer and full-stack web developer.
 
 ## Education 🎓
 - Computer Science B.S., Valedictorian, Full Sail University
