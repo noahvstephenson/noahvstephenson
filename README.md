@@ -23,6 +23,6 @@ I'm [Noah](https://noahvstephenson.com/, a software engineer and full-stack web 
 
 ## Contact 📱
 - [LinkedIn](https://www.linkedin.com/in/noahvstephenson/)
-- [Portfolio](https://noahstephenson.vercel.app/)
+- [Portfolio](https://noahvstephenson.com/)
 - [Twitter](https://twitter.com/noahvstephenson/)
 - [Dev Blog](https://noahvstephenson.wordpress.com/)
