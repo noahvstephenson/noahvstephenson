@@ -1,5 +1,11 @@
-## Hey! 👋
-I'm [Noah](https://noahvstephenson.com/), a software engineer and full-stack web developer.
+## Hey! I'm [Noah](https://noahvstephenson.com/) 👋
+I'm a full-stack web developer.
+
+## Contact 📱
+- [Portfolio](https://noahvstephenson.com/)
+- [LinkedIn](https://www.linkedin.com/in/noahvstephenson/)
+- [Twitter](https://twitter.com/noahvstephenson/)
+- [Dev Blog](https://noahvstephenson.wordpress.com/)
 
 ## Education 🎓
 - Computer Science B.S., Valedictorian, Full Sail University
@@ -8,21 +14,17 @@ I'm [Noah](https://noahvstephenson.com/), a software engineer and full-stack web
 - 🧑 [Portfolio](http://noahvstephenson.com/) - Noah Stephenson
 - 📈 [Stockit](http://stockit-ns.vercel.app) - Stock insights 
 - ⛅ [Weathever](http://weathever.vercel.app) - Get the weather, wherever
-- 🃏 [All The Cards](https://noahvstephenson.github.io/projects/allthecards) - Magic: The Gathering deckbuilder and card database web app
+- 🃏 [All The Cards](https://noahvstephenson.github.io/projects/allthecards) - Magic: The Gathering deckbuilder and card database
   
 ## Skills ✨
 - JavaScript/TypeScript
 - HTML/CSS
 - Python
-- C/C++
+- C/C#/C++
   
 ## Tools 🛠
 - VSCode on Windows/Mac
-- React.js + Vite
+- React.js
+- Node.js
 - React Native
-
-## Contact 📱
-- [LinkedIn](https://www.linkedin.com/in/noahvstephenson/)
-- [Portfolio](https://noahvstephenson.com/)
-- [Twitter](https://twitter.com/noahvstephenson/)
-- [Dev Blog](https://noahvstephenson.wordpress.com/)
+- Git
